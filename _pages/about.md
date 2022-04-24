@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Lecturer of Computer Architecture in the Faculty of Electrical and Computer Engineering, University of Prishtina. I received my PhD from the University of Vienna, Austria.
-
-My research focci is in Parallel Computer Architectures.
+I am a Lecturer of Computer Architecture in the Faculty of Electrical and Computer Engineering, University of Prishtina. I received my PhD in High Performance Computing from the University of Vienna, Austria. Besides the research focus on High Performance Computing, my area of expertise includes
+software development in C/C++, parallel and high-performance paradigms, and web backend development. I have more than ten years of experience in technology consulting and software development with various companies working with the European Commission.
+  
 
 Teaching
 ======
@@ -18,7 +18,8 @@ Computer Architecture
 Parallel Architectures and Programming Models  
 Hardware Programming  
 Systems Programming
-
+  
+  
 Publications
 ======
 **Runtime and Energy Constrained Work Scheduling for Heterogeneous Systems**  
