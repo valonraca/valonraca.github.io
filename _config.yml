@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Valon Raca"
-  avatar           : "profile.png"
+  avatar           : # "profile.png"
   bio              : "Assistant Professor at the University of Prishtina"
   location         : "Prishtina, Kosovo"
   employer         :
