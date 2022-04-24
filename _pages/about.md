@@ -23,4 +23,4 @@ Publications
 ======
 **Runtime and Energy Constrained Work Scheduling for Heterogeneous Systems**
 Valon Raca, Seeun William Umboh, Eduard Mehofer, and Bernhard Scholz
-`#c5f015` Journal of Supercomputing, 2022
+#c5f015 Journal of Supercomputing, 2022
