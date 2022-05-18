@@ -24,7 +24,7 @@ Publications
 ======
 **Runtime and Energy Constrained Work Scheduling for Heterogeneous Systems**  
 Valon Raca, Seeun William Umboh, Eduard Mehofer, and Bernhard Scholz  
-[Journal of Supercomputing, 2022](https://doi.org/10.1007/s11227-022-04556-7){:target="_blank"}   
+[Journal of Supercomputing, 2022](https://doi.org/10.1007/s11227-022-04556-7){:target="_blank"}
   
 **clusterCL: Comprehensive Support for Multi Kernel Data-Parallel Applications in Heterogeneous Asymmetric Clusters**  
 Valon Raca and Eduard Mehofer  
