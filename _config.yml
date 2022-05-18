@@ -86,7 +86,7 @@ author:
   location         : "Prishtina, Kosovo"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=vJ3E3nQAAAAJ&hl=en&oi=ao"{:target="_blank"}
+  googlescholar    : "https://scholar.google.com/citations?user=vJ3E3nQAAAAJ&hl=en&oi=ao"
   email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "valon-raca"{:target="_blank"}
-  orcid            : "https://orcid.org/0000-0001-5948-049X"{:target="_blank"}
+  linkedin         : "valon-raca"
+  orcid            : "https://orcid.org/0000-0001-5948-049X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
