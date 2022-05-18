@@ -46,7 +46,7 @@ Valon Raca and Eduard Mehofer
 **Efficient Execution of High Performance Computing Applications on Asymmetric Heterogeneous Hardware Architectures**  
 Valon Raca  
 Advisor: ao. Univ.-Prof. Dipl.-Ing. Dr. Eduard Mehofer  
-[University Of Vienna, Austria, 2019](https://doi.org/10.25365/thesis.59157){:target="_blank"}
+[University of Vienna, Austria, 2019](https://doi.org/10.25365/thesis.59157){:target="_blank"}
 
 
 
